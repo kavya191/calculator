@@ -3,9 +3,6 @@ body{
     display: flex;
     justify-content: center;
 }
-btn {
-   
-  }
 .container{
     width: 300px;
     height: 500px;
