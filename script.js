@@ -15,8 +15,8 @@ function displayClear(){
     calcInput.value=calcInput.value.slice(0,-1)
 }
 function openBracket(){
-    calcInput.value="("
+    calcInput.value+="("
 }
 function closeBracket(){
-    calcInput.value=")"
+    calcInput.value+=")"
 }
