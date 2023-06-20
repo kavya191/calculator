@@ -20,3 +20,6 @@ function openBracket(){
 function closeBracket(){
     calcInput.value+=")"
 }
+function displayPercentage(){
+    calcInput.value=calcInput.value/100
+}
